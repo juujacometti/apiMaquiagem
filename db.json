@@ -1,0 +1,95 @@
+{
+  "marcas": [
+    {
+      "id": "1",
+      "nome": "O Boticário",
+      "descricao": "Marca brasileira, conhecida por perfumes, maquiagem e cuidados pessoais.",
+      "fundadores": ["Miguel Krigsner"],
+      "imagem": "assets/images/boticario.png",
+      "servicos_principais": ["Maquiagem", "Skincare", "Produtos corporais"],
+      "promocoes": "Boti Promo com até 50% OFF em maquiagem e skincare"
+    },
+    {
+      "id": "2",
+      "nome": "Quem Disse, Berenice?",
+      "descricao": "Marca brasileira focada em diversidade e criatividade na maquiagem, conhecida pelas cores vibrantes e produtos modernos.",
+      "fundadores": ["Grupo O Boticário"],
+      "imagem": "assets/images/quemDisseBerenice.png",
+      "servicos_principais": ["Skincare", "Acessórios de maquiagem", "Produtos para olhos e lábios"],
+      "promocoes": "Cupons de 15% OFF na primeira compra"
+    },
+    {
+      "id": "3",
+      "nome": "Vult Cosmética",
+      "descricao": "Marca nacional conhecida por maquiagem acessível e produtos de qualidade.",
+      "fundadores": ["Daniel Cruz"],
+      "imagem": "assets/images/vult.png",
+      "servicos_principais": ["Bases e corretivos", "Batons e gloss", "Produtos para olhos"],
+      "promocoes": "Frete grátis em campanhas específicas"
+    },
+    {
+      "id": "4",
+      "nome": "Bruna Tavares Beauty",
+      "descricao": "Marca criada pela influenciadora Bruna Tavares, famosa por produtos de alta cobertura e grande variedade de tons.",
+      "fundadores": ["Bruna Tavares"],
+      "imagem": "assets/images/brunaTavares.png",
+      "servicos_principais": ["Bases profissionais", "Produtos veganos"],
+      "promocoes": "Kits de maquiagem com desconto"
+    },
+    {
+      "id": "5",
+      "nome": "Mari Maria Makeup",
+      "descricao": "Marca brasileira reconhecida por produtos de acabamento profissional e alta cobertura.",
+      "fundadores": ["Mari Maria"],
+      "imagem": "assets/images/mariMaria.svg",
+      "servicos_principais": ["Paletas de sombra", "Produtos glow"],
+      "promocoes": "Cashback e cupons especiais"
+    },
+    {
+      "id": "6",
+      "nome": "Boca Rosa Beauty",
+      "descricao": "Marca moderna voltada para maquiagem inclusiva, jovem e com forte presença digital.",
+      "fundadores": ["Bianca Andrade"],
+      "imagem": "assets/images/bocaRosa.png",
+      "servicos_principais": ["Maquiagem facial", "Produtos para olhos", "Batons e gloss", "Produtos resistentes à água"],
+      "promocoes": "Campanhas especiais em redes sociais"
+    },
+    {
+      "id": "7",
+      "nome": "Ruby Rose",
+      "descricao": "Marca popular no Brasil por oferecer maquiagem acessível, moderna e muito utilizada por iniciantes.",
+      "fundadores": ["Empresa Ruby Rose"],
+      "imagem": "assets/images/rubyRose.png",
+      "servicos_principais": ["Produtos acessíveis"],
+      "promocoes": "Promoções em marketplaces"
+    },
+    {
+      "id": "8",
+      "nome": "Nina Makeup",
+      "descricao": "Marca brasileira conhecida por embalagens sofisticadas e maquiagem acessível de alta qualidade.",
+      "fundadores": ["Shirley Costa"],
+      "imagem": "assets/images/ninaMakeup.png",
+      "servicos_principais": ["Produtos para pele", "Batons e gloss", "Iluminadores", "Acessórios"],
+      "promocoes": "Descontos em lançamentos"
+    },
+    {
+      "id": "9",
+      "nome": "Simple Organic",
+      "descricao": "Marca brasileira vegana focada em maquiagem sustentável e skincare natural.",
+      "fundadores": ["Patrícia Lima"],
+      "imagem": "assets/images/simpleOrganic.png",
+      "servicos_principais": ["Produtos cruelty-free", "Cosméticos sustentáveis"],
+      "promocoes": "Promoções em datas ecológicas e campanhas veganas"
+    },
+    {
+      "id": "10",
+      "nome": "Contém 1g",
+      "descricao": "Marca tradicional brasileira especializada em maquiagem profissional e alta variedade de produtos.",
+      "fundadores": ["Rogério Rubini"],
+      "imagem": "assets/images/contem1g.png",
+      "servicos_principais": ["Maquiagem profissional", "Pincéis e acessórios"],
+      "promocoes": "Promoções progressivas"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
