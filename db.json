@@ -86,7 +86,7 @@
       "nome": "Contém 1g",
       "descricao": "Marca tradicional brasileira especializada em maquiagem profissional e alta variedade de produtos.",
       "fundadores": ["Rogério Rubini"],
-      "imagem": "images/contem1g.png",
+      "imagem": "assets/images/contem1g.png",
       "servicos_principais": ["Maquiagem profissional", "Pincéis e acessórios"],
       "promocoes": "Promoções progressivas"
     }
